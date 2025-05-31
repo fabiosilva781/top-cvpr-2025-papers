@@ -43,8 +43,6 @@ PAPER_WITHOUT_POSTER_PATTERN = """
     <br/>
     {}
     <br/>
-    <strong>Topic:</strong> {}
-    <br/>
     <strong>Session:</strong> {}
 </p>
 <br/>
@@ -62,8 +60,6 @@ PAPER_WITH_POSTER_PATTERN = """
     {}
     <br/>
     {}
-    <br/>
-    <strong>Topic:</strong> {}
     <br/>
     <strong>Session:</strong> {}
 </p>
@@ -94,7 +90,6 @@ def format_entry(entry: Series) -> str:
     """
     title = entry.loc[TITLE_COLUMN_NAME]
     authors = entry.loc[AUTHORS_COLUMN_NAME]
-    topics = entry.loc[TOPIC_COLUMN_NAME]
     session = entry.loc[SESSION_COLUMN_NAME]
     poster = entry.loc[POSTER_COLUMN_NAME]
     compressed_poster = entry.loc[COMPRESSED_POSTER_COLUMN_NAME]
@@ -115,29 +110,25 @@ def format_entry(entry: Series) -> str:
 
     if not poster:
         return PAPER_WITHOUT_POSTER_PATTERN.format(
-            paper_id, title, highlight_badge, title, authors, badges, topics, session)
+            paper_id, title, highlight_badge, title, authors, badges, session)
 
     return PAPER_WITH_POSTER_PATTERN.format(
-        poster, title, compressed_poster, title, paper_id, title, highlight_badge, title, authors, badges, topics, session)
+        poster, title, compressed_poster, title, paper_id, title, highlight_badge, title, authors, badges, session)
 
 
 def load_entries(path: str) -> List[str]:
     """
-    Loads table entries from csv file, sorted by date in descending order and formats dates.
+    Loads table entries from csv file and formats them.
     """
     df = pd.read_csv(path, quotechar='"', dtype=str)
     df.columns = df.columns.str.strip()
     df = df.fillna("")
 
-    entries = []
-    df_dict = {topic: group_df for topic, group_df in df.groupby(TOPIC_COLUMN_NAME)}
-    for topic, group_df in df_dict.items():
-        entries.append(f"### {topic.lower()}")
-        entries += [
-            format_entry(row)
-            for _, row
-            in group_df.iterrows()
-        ]
+    entries = [
+        format_entry(row)
+        for _, row
+        in df.iterrows()
+    ]
     return entries
 
 
