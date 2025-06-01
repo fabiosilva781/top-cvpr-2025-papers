@@ -56,6 +56,60 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32887.png?t=1747896029.4399107" title="FastVLM: Efficient Vision Encoding for Vision Language Models">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32887.png?t=1747896029.4399107" alt="FastVLM: Efficient Vision Encoding for Vision Language Models" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2412.13303" title="FastVLM: Efficient Vision Encoding for Vision Language Models">
+        <strong>FastVLM: Efficient Vision Encoding for Vision Language Models</strong>
+    </a>
+    <br/>
+    Pavan Kumar Anasosalu Vasu, Fartash Faghri, Chun-Liang Li, Cem Koc, Nate True, Albert Antony, Gokul Santhanam, James Gabriel, Peter Grasch, Oncel Tuzel, Hadi Pouransari
+    <br/>
+    [<a href="https://arxiv.org/abs/2412.13303">paper</a>] [<a href="https://github.com/apple/ml-fastvlm">code</a>]   
+    <br/>
+    <strong>Session:</strong> Sun 15 Jun midnight CEST — 2 a.m. CEST
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33479.png?t=1748410877.7850628" title="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33479.png?t=1748410877.7850628" alt="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2412.15322" title="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis">
+        <strong>MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis</strong>
+    </a>
+    <br/>
+    Ho Kei Cheng, Masato Ishii, Akio Hayakawa, Takashi Shibuya, Alexander Schwing, Yuki Mitsufuji
+    <br/>
+    [<a href="https://arxiv.org/abs/2412.15322">paper</a>] [<a href="https://github.com/hkchengrex/MMAudio">code</a>] [<a href="https://youtu.be/YElewUT2M4M">video</a>] [<a href="https://huggingface.co/spaces/hkchengrex/MMAudio">demo</a>] [<a href="https://colab.research.google.com/drive/1TAaXCY2-kPk4xE4PwKB3EqFbSnkUuzZ8?usp=sharing">colab</a>]
+    <br/>
+    <strong>Session:</strong> Sun 15 Jun 11 p.m. CEST — 1 a.m. CEST #260
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34813.png?t=1748519375.4086587" title="MINIMA: Modality Invariant Image Matching">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34813.png?t=1748519375.4086587" alt="MINIMA: Modality Invariant Image Matching" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2412.19412" title="MINIMA: Modality Invariant Image Matching">
+        <strong>MINIMA: Modality Invariant Image Matching</strong>
+    </a>
+    <br/>
+    Jiangwei Ren, Xingyu Jiang, Zizhuo Li, Dingkang Liang, Xin Zhou, Xiang Bai
+    <br/>
+    [<a href="https://arxiv.org/abs/2412.19412">paper</a>] [<a href="https://github.com/LSXI7/MINIMA">code</a>]  [<a href="https://huggingface.co/spaces/lsxi77777/MINIMA">demo</a>] 
+    <br/>
+    <strong>Session:</strong> Sun 15 Jun 5:30 p.m. CEST — 7:30 p.m. CEST #190
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
     <a href="https://arxiv.org/abs/2412.04234" title="DEIM: DETR with Improved Matching for Fast Convergence">
         <strong>DEIM: DETR with Improved Matching for Fast Convergence</strong>
     </a>
