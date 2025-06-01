@@ -56,9 +56,6 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32773.png?t=1747708848.5028224" title="DEIM: DETR with Improved Matching for Fast Convergence">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32773.png?t=1747708848.5028224" alt="DEIM: DETR with Improved Matching for Fast Convergence" width="400px" align="left" />
-    </a>
     <a href="https://arxiv.org/abs/2412.04234" title="DEIM: DETR with Improved Matching for Fast Convergence">
         <strong>DEIM: DETR with Improved Matching for Fast Convergence</strong>
     </a>
@@ -69,7 +66,6 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Sat 14 Jun 5:30 p.m. CEST — 7:30 p.m. CEST
 </p>
-<br/>
 <br/>
 
 
