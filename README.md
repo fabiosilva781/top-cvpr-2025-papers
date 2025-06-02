@@ -42,20 +42,6 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
-    <a href="https://arxiv.org/abs/2409.17146" title="Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models">
-        <strong>🏆 Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models</strong>
-    </a>
-    <br/>
-    Matt Deitke, Christopher Clark, Sangho Lee, Rohun Tripathi, Yue Yang, Jae Sung Park, Mohammadreza Salehi, Niklas Muennighoff, Kyle Lo, Luca Soldaini, Jiasen Lu, Taira Anderson, Erin Bransom, Kiana Ehsani, Huong Ngo, YenSung Chen, Ajay Patel, Mark Yatskar, Chris Callison-Burch, Andrew Head, Rose Hendrix, Favyen Bastani, Eli VanderBilt, Nathan Lambert, Yvonne Chou, Arnavi Chheda, Jenna Sparks, Sam Skjonsberg, Michael Schmitz, Aaron Sarnat, Byron Bischoff, Pete Walsh, Chris Newell, Piper Wolters, Tanmay Gupta, Kuo-Hao Zeng, Jon Borchardt, Dirk Groeneveld, Crystal Nam, Sophie Lebrecht, Caitlin Wittlif, Carissa Schoenick, Oscar Michel, Ranjay Krishna, Luca Weihs, Noah A. Smith, Hannaneh Hajishirzi, Ross Girshick, Ali Farhadi, Aniruddha Kembhavi
-    <br/>
-    [<a href="https://arxiv.org/abs/2409.17146">paper</a>]   [<a href="https://huggingface.co/spaces/akhaliq/Molmo-7B-D-0924">demo</a>] 
-    <br/>
-    <strong>Session:</strong> Fri 13 Jun 5:30 p.m. CEST — 7:30 p.m. CEST #80
-</p>
-<br/>
-
-
-<p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32887.png?t=1747896029.4399107" title="FastVLM: Efficient Vision Encoding for Vision Language Models">
         <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32887.png?t=1747896029.4399107" alt="FastVLM: Efficient Vision Encoding for Vision Language Models" width="400px" align="left" />
     </a>
@@ -88,6 +74,20 @@ looking for is not on my short list, take a peek at the full
     <strong>Session:</strong> Sun 15 Jun 11 p.m. CEST — 1 a.m. CEST #260
 </p>
 <br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2409.17146" title="Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models">
+        <strong>🏆 Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models</strong>
+    </a>
+    <br/>
+    Matt Deitke, Christopher Clark, Sangho Lee, Rohun Tripathi, Yue Yang, Jae Sung Park, Mohammadreza Salehi, Niklas Muennighoff, Kyle Lo, Luca Soldaini, Jiasen Lu, Taira Anderson, Erin Bransom, Kiana Ehsani, Huong Ngo, YenSung Chen, Ajay Patel, Mark Yatskar, Chris Callison-Burch, Andrew Head, Rose Hendrix, Favyen Bastani, Eli VanderBilt, Nathan Lambert, Yvonne Chou, Arnavi Chheda, Jenna Sparks, Sam Skjonsberg, Michael Schmitz, Aaron Sarnat, Byron Bischoff, Pete Walsh, Chris Newell, Piper Wolters, Tanmay Gupta, Kuo-Hao Zeng, Jon Borchardt, Dirk Groeneveld, Crystal Nam, Sophie Lebrecht, Caitlin Wittlif, Carissa Schoenick, Oscar Michel, Ranjay Krishna, Luca Weihs, Noah A. Smith, Hannaneh Hajishirzi, Ross Girshick, Ali Farhadi, Aniruddha Kembhavi
+    <br/>
+    [<a href="https://arxiv.org/abs/2409.17146">paper</a>]   [<a href="https://huggingface.co/spaces/akhaliq/Molmo-7B-D-0924">demo</a>] 
+    <br/>
+    <strong>Session:</strong> Fri 13 Jun 5:30 p.m. CEST — 7:30 p.m. CEST #80
+</p>
 <br/>
 
 
