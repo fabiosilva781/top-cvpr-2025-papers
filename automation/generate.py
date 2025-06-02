@@ -104,7 +104,7 @@ def format_entry(entry: Series) -> str:
     youtube_badge = YOUTUBE_BADGE_PATTERN.format(youtube_url) if youtube_url else ""
     huggingface_badge = HUGGINGFACE_SPACE_BADGE_PATTERN.format(huggingface_url) if huggingface_url else ""
     colab_badge = COLAB_BADGE_PATTERN.format(colab_url) if colab_url else ""
-    highlight_badge = "🔥 " if is_highlight == "True" else ""
+    highlight_badge = "🏆 " if is_highlight == "True" else ""
     badges = " ".join([arxiv_badge, code_badge, youtube_badge, huggingface_badge, colab_badge])
     compressed_poster = compressed_poster if compressed_poster else poster
 
