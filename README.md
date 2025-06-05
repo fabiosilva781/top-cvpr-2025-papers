@@ -114,9 +114,6 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32773.png?t=1747708848.5028224" title="DEIM: DETR with Improved Matching for Fast Convergence">
-        <img src="https://github.com/user-attachments/assets/380f2089-9ec5-42d5-901b-e5213ae1c37d" alt="DEIM: DETR with Improved Matching for Fast Convergence" width="400px" align="left" />
-    </a>
     <a href="https://arxiv.org/abs/2412.04234" title="DEIM: DETR with Improved Matching for Fast Convergence">
         <strong>DEIM: DETR with Improved Matching for Fast Convergence</strong>
     </a>
@@ -127,7 +124,6 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Sat 14 Jun 5:30 p.m. CEST — 7:30 p.m. CEST
 </p>
-<br/>
 <br/>
 
 
@@ -179,7 +175,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33026.png?t=1749131392.5907311" title="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33026.png?t=1749131392.5907311" alt="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/fabe851e-1533-4752-8875-44640da9dc3f" alt="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2409.02095" title="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos">
         <strong>🏆 DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos</strong>
@@ -197,7 +193,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33862.png?t=1747997885.3577623" title="Video Depth Anything: Consistent Depth Estimation for Super-Long Videos">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33862.png?t=1747997885.3577623" alt="Video Depth Anything: Consistent Depth Estimation for Super-Long Videos" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/81fd3218-7db3-4446-9009-11489742120d" alt="Video Depth Anything: Consistent Depth Estimation for Super-Long Videos" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2501.12375" title="Video Depth Anything: Consistent Depth Estimation for Super-Long Videos">
         <strong>Video Depth Anything: Consistent Depth Estimation for Super-Long Videos</strong>
@@ -215,7 +211,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33472.png?t=1748798588.1133444" title="ShowUI: One Vision-Language-Action Model for GUI Visual Agent">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33472.png?t=1748798588.1133444" alt="ShowUI: One Vision-Language-Action Model for GUI Visual Agent" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/6dd848ca-51da-479e-9edc-e4f3efc34fc8" alt="ShowUI: One Vision-Language-Action Model for GUI Visual Agent" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2411.17465" title="ShowUI: One Vision-Language-Action Model for GUI Visual Agent">
         <strong>ShowUI: One Vision-Language-Action Model for GUI Visual Agent</strong>
@@ -233,7 +229,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34510.png?t=1748805761.17" title="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34510.png?t=1748805761.17" alt="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/57d90a0c-3ab6-497f-83c0-ed4a46a669ac" alt="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2411.17646" title="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation">
         <strong>🏆 SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation</strong>
@@ -251,7 +247,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34467.png?t=1748720373.8849306" title="Layered Image Vectorization via Semantic Simplification">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34467.png?t=1748720373.8849306" alt="Layered Image Vectorization via Semantic Simplification" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/29830750-91b8-42cb-a7c9-c30f917abba3" alt="Layered Image Vectorization via Semantic Simplification" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2406.05404" title="Layered Image Vectorization via Semantic Simplification">
         <strong>Layered Image Vectorization via Semantic Simplification</strong>
