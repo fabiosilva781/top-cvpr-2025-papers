@@ -25,7 +25,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32554.png?t=1748195633.2703488" title="UniK3D: Universal Camera Monocular 3D Estimation">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32554.png?t=1748195633.2703488" alt="UniK3D: Universal Camera Monocular 3D Estimation" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/e91f48d0-5105-415c-b2cf-c37ff1d1a907" alt="UniK3D: Universal Camera Monocular 3D Estimation" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2503.16591" title="UniK3D: Universal Camera Monocular 3D Estimation">
         <strong>UniK3D: Universal Camera Monocular 3D Estimation</strong>
@@ -43,7 +43,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32887.png?t=1747896029.4399107" title="FastVLM: Efficient Vision Encoding for Vision Language Models">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32887.png?t=1747896029.4399107" alt="FastVLM: Efficient Vision Encoding for Vision Language Models" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/6915d6e4-7219-4264-ba66-f947c36a1573" alt="FastVLM: Efficient Vision Encoding for Vision Language Models" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2412.13303" title="FastVLM: Efficient Vision Encoding for Vision Language Models">
         <strong>FastVLM: Efficient Vision Encoding for Vision Language Models</strong>
@@ -61,7 +61,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33479.png?t=1748410877.7850628" title="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33479.png?t=1748410877.7850628" alt="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/f235f59f-98d7-4dcf-b211-a4b47c548bf1" alt="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2412.15322" title="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis">
         <strong>MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis</strong>
@@ -78,6 +78,9 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33073.png?t=1748883064.876014" title="Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models">
+        <img src="https://github.com/user-attachments/assets/79e45954-fad5-4d21-a5ab-14a1d5b4b942" alt="Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2409.17146" title="Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models">
         <strong>🏆 Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models</strong>
     </a>
@@ -89,11 +92,12 @@ looking for is not on my short list, take a peek at the full
     <strong>Session:</strong> Fri 13 Jun 5:30 p.m. CEST — 7:30 p.m. CEST #80
 </p>
 <br/>
+<br/>
 
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34813.png?t=1748519375.4086587" title="MINIMA: Modality Invariant Image Matching">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34813.png?t=1748519375.4086587" alt="MINIMA: Modality Invariant Image Matching" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/74fb83da-9361-45da-977f-22c9d4808111" alt="MINIMA: Modality Invariant Image Matching" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2412.19412" title="MINIMA: Modality Invariant Image Matching">
         <strong>MINIMA: Modality Invariant Image Matching</strong>
@@ -110,6 +114,9 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32773.png?t=1747708848.5028224" title="DEIM: DETR with Improved Matching for Fast Convergence">
+        <img src="https://github.com/user-attachments/assets/380f2089-9ec5-42d5-901b-e5213ae1c37d" alt="DEIM: DETR with Improved Matching for Fast Convergence" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2412.04234" title="DEIM: DETR with Improved Matching for Fast Convergence">
         <strong>DEIM: DETR with Improved Matching for Fast Convergence</strong>
     </a>
@@ -121,11 +128,12 @@ looking for is not on my short list, take a peek at the full
     <strong>Session:</strong> Sat 14 Jun 5:30 p.m. CEST — 7:30 p.m. CEST
 </p>
 <br/>
+<br/>
 
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33969.png?t=1748740040.9726639" title="VGGT: Visual Geometry Grounded Transformer">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33969.png?t=1748740040.9726639" alt="VGGT: Visual Geometry Grounded Transformer" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/2f73ac33-7ddd-4f74-a020-db9a7e49c74c" alt="VGGT: Visual Geometry Grounded Transformer" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2503.11651" title="VGGT: Visual Geometry Grounded Transformer">
         <strong>🏆 VGGT: Visual Geometry Grounded Transformer</strong>
@@ -170,6 +178,9 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33026.png?t=1749131392.5907311" title="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33026.png?t=1749131392.5907311" alt="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2409.02095" title="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos">
         <strong>🏆 DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos</strong>
     </a>
@@ -180,6 +191,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Fri 13 Jun 5:30 p.m. CEST — 7:30 p.m. CEST #171
 </p>
+<br/>
 <br/>
 
 
@@ -214,6 +226,42 @@ looking for is not on my short list, take a peek at the full
     [<a href="https://arxiv.org/abs/2411.17465">paper</a>] [<a href="https://github.com/showlab/ShowUI">code</a>]  [<a href="https://huggingface.co/spaces/showlab/ShowUI">demo</a>] 
     <br/>
     <strong>Session:</strong> Sun 15 Jun midnight CEST — 2 a.m. CEST #352
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34510.png?t=1748805761.17" title="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34510.png?t=1748805761.17" alt="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2411.17646" title="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation">
+        <strong>🏆 SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation</strong>
+    </a>
+    <br/>
+    Claudia Cuttano, Gabriele Trivigno, Gabriele Rosi, Carlo Masone, Giuseppe Averta
+    <br/>
+    [<a href="https://arxiv.org/abs/2411.17646">paper</a>] [<a href="https://github.com/ClaudiaCuttano/SAMWISE">code</a>] [<a href="https://youtu.be/OL3xvzFyXCc">video</a>]  
+    <br/>
+    <strong>Session:</strong> Fri 13 Jun 5:30 p.m. CEST — 7:30 p.m. CEST #308
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34467.png?t=1748720373.8849306" title="Layered Image Vectorization via Semantic Simplification">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34467.png?t=1748720373.8849306" alt="Layered Image Vectorization via Semantic Simplification" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2406.05404" title="Layered Image Vectorization via Semantic Simplification">
+        <strong>Layered Image Vectorization via Semantic Simplification</strong>
+    </a>
+    <br/>
+    Zhenyu Wang, Jianxi Huang, Zhida Sun, Yuanhao Gong, Daniel Cohen-Or, Min Lu
+    <br/>
+    [<a href="https://arxiv.org/abs/2406.05404">paper</a>] [<a href="https://github.com/SZUVIZ/layered_vectorization">code</a>] [<a href="https://youtu.be/oUYQKjDlwCw">video</a>]  
+    <br/>
+    <strong>Session:</strong> Fri 13 Jun 11 p.m. CEST — 1 a.m. CEST #226
 </p>
 <br/>
 <br/>
