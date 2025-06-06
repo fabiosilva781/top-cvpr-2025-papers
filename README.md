@@ -266,6 +266,26 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33882.png?t=1748536728.1331344" title="Multiple Object Tracking as ID Prediction">
+        <img src="https://github.com/user-attachments/assets/03bbff51-f697-4298-95bb-fe59d9e0394e" alt="Multiple Object Tracking as ID Prediction" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2403.16848" title="Multiple Object Tracking as ID Prediction">
+        <strong>Multiple Object Tracking as ID Prediction</strong>
+    </a>
+    <br/>
+    Ruopeng Gao, Ji Qi, Limin Wang
+    <br/>
+    [<a href="https://arxiv.org/abs/2403.16848">paper</a>] [<a href="https://github.com/MCG-NJU/MOTIP">code</a>]   
+    <br/>
+    <strong>Topic:</strong> Object Tracking
+    <br/>
+    <strong>Session:</strong> Sun 15 Jun 11 p.m. CEST — 1 a.m. CEST Poster Session 6 #163
+</p>
+<br/>
+<br/>
+
 ### open-world detection
 
 <p align="left">
