@@ -46,7 +46,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34871.png?t=1748708079.0490072" title="MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34871.png?t=1748708079.0490072" alt="MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/ec55204b-ad3f-4571-bd89-5efc534035ab" alt="MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2412.12392" title="MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors">
         <strong>🔥 MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors</strong>
@@ -128,7 +128,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34644.png?t=1748853080.0173087" title="Interpreting Object-level Foundation Models via Visual Precision Search">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34644.png?t=1748853080.0173087" alt="Interpreting Object-level Foundation Models via Visual Precision Search" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/4ea7bae6-1064-44a7-8e82-8ce1051acef1" alt="Interpreting Object-level Foundation Models via Visual Precision Search" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2411.16198" title="Interpreting Object-level Foundation Models via Visual Precision Search">
         <strong>🔥 Interpreting Object-level Foundation Models via Visual Precision Search</strong>
@@ -169,7 +169,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32785.png?t=1748780647.7372541" title="SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32785.png?t=1748780647.7372541" alt="SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/4e57fcf0-2833-4fb6-88f4-7ee6aeb94e7d" alt="SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2403.09055" title="SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models">
         <strong>SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models</strong>
@@ -249,7 +249,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35010.png?t=1748684123.2752578" title="MITracker: Multi-View Integration for Visual Object Tracking">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35010.png?t=1748684123.2752578" alt="MITracker: Multi-View Integration for Visual Object Tracking" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/80de6a58-6ffd-477c-b71e-6e36f613c454" alt="MITracker: Multi-View Integration for Visual Object Tracking" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2502.20111" title="MITracker: Multi-View Integration for Visual Object Tracking">
         <strong>🔥 MITracker: Multi-View Integration for Visual Object Tracking</strong>
@@ -270,7 +270,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35020.png?t=1748563484.5053573" title="Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35020.png?t=1748563484.5053573" alt="Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/40164060-591d-4cc0-a48c-2685beed2396" alt="Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2502.07601" title="Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models">
         <strong>🔥 Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models</strong>
@@ -290,7 +290,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32802.png?t=1748865568.2500262" title="Compositional Caching for Training-free Open-vocabulary Attribute Detection">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32802.png?t=1748865568.2500262" alt="Compositional Caching for Training-free Open-vocabulary Attribute Detection" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/d0696a83-3aa0-417d-92a8-2624ab030e5c" alt="Compositional Caching for Training-free Open-vocabulary Attribute Detection" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2503.19145" title="Compositional Caching for Training-free Open-vocabulary Attribute Detection">
         <strong>🔥 Compositional Caching for Training-free Open-vocabulary Attribute Detection</strong>
@@ -311,7 +311,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35057.png?t=1748706748.0220559" title="Reconstructing Humans with a Biomechanically Accurate Skeleton">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35057.png?t=1748706748.0220559" alt="Reconstructing Humans with a Biomechanically Accurate Skeleton" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/2bd230a4-9ea3-4a78-8daf-b9511c0c0baa" alt="Reconstructing Humans with a Biomechanically Accurate Skeleton" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2503.21751" title="Reconstructing Humans with a Biomechanically Accurate Skeleton">
         <strong>🔥 Reconstructing Humans with a Biomechanically Accurate Skeleton</strong>
@@ -349,7 +349,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34330.png?t=1748714664.9139624" title="FoundationStereo: Zero-Shot Stereo Matching">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34330.png?t=1748714664.9139624" alt="FoundationStereo: Zero-Shot Stereo Matching" width="400px" align="left" />
+        <img src="https://github.com/user-attachments/assets/7b56609f-74c0-4019-91dd-ed3ea260875f" alt="FoundationStereo: Zero-Shot Stereo Matching" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2501.09898" title="FoundationStereo: Zero-Shot Stereo Matching">
         <strong>🔥 FoundationStereo: Zero-Shot Stereo Matching</strong>
