@@ -26,7 +26,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33969.png?t=1748740040.9726639" title="VGGT: Visual Geometry Grounded Transformer">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452009045-2f73ac33-7ddd-4f74-a020-db9a7e49c74c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083147Z&X-Amz-Expires=300&X-Amz-Signature=4b78bf871011cbf8b1ef2d12d04836e4d52ba7184e845ea0a45e19723506f87d&X-Amz-SignedHeaders=host" alt="VGGT: Visual Geometry Grounded Transformer" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33969.png?t=1748740040.9726639" alt="VGGT: Visual Geometry Grounded Transformer" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2503.11651" title="VGGT: Visual Geometry Grounded Transformer">
         <strong>🔥 VGGT: Visual Geometry Grounded Transformer</strong>
@@ -46,7 +46,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34871.png?t=1748708079.0490072" title="MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452246011-ec55204b-ad3f-4571-bd89-5efc534035ab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083454Z&X-Amz-Expires=300&X-Amz-Signature=7331129529e8c16e67ad4b959eff27f832636bd819fa593f26bc3f06cce8a236&X-Amz-SignedHeaders=host" alt="MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34871.png?t=1748708079.0490072" alt="MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2412.12392" title="MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors">
         <strong>🔥 MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors</strong>
@@ -67,7 +67,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32554.png?t=1748195633.2703488" title="UniK3D: Universal Camera Monocular 3D Estimation">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452009008-e91f48d0-5105-415c-b2cf-c37ff1d1a907.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T082944Z&X-Amz-Expires=300&X-Amz-Signature=d546deab93a5438ef1686ccbe0be54071b7880e57bc6681801c8406070b30895&X-Amz-SignedHeaders=host" alt="UniK3D: Universal Camera Monocular 3D Estimation" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32554.png?t=1748195633.2703488" alt="UniK3D: Universal Camera Monocular 3D Estimation" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2503.16591" title="UniK3D: Universal Camera Monocular 3D Estimation">
         <strong>UniK3D: Universal Camera Monocular 3D Estimation</strong>
@@ -87,7 +87,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33026.png?t=1749131392.5907311" title="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452011702-fabe851e-1533-4752-8875-44640da9dc3f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083222Z&X-Amz-Expires=300&X-Amz-Signature=efa0cb4bd6f9c4522cf49162d08a54202164bba9177f12e12dd9176879cdcaf5&X-Amz-SignedHeaders=host" alt="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33026.png?t=1749131392.5907311" alt="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2409.02095" title="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos">
         <strong>🔥 DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos</strong>
@@ -107,7 +107,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33862.png?t=1747997885.3577623" title="Video Depth Anything: Consistent Depth Estimation for Super-Long Videos">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452011699-81fd3218-7db3-4446-9009-11489742120d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083236Z&X-Amz-Expires=300&X-Amz-Signature=30c83127dc2e356780681e7ae04cfe10210dec9f1179c71b06cfe527c3fe9460&X-Amz-SignedHeaders=host" alt="Video Depth Anything: Consistent Depth Estimation for Super-Long Videos" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33862.png?t=1747997885.3577623" alt="Video Depth Anything: Consistent Depth Estimation for Super-Long Videos" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2501.12375" title="Video Depth Anything: Consistent Depth Estimation for Super-Long Videos">
         <strong>Video Depth Anything: Consistent Depth Estimation for Super-Long Videos</strong>
@@ -128,7 +128,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34644.png?t=1748853080.0173087" title="Interpreting Object-level Foundation Models via Visual Precision Search">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452246023-4ea7bae6-1064-44a7-8e82-8ce1051acef1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083556Z&X-Amz-Expires=300&X-Amz-Signature=f499ffba8639b7dfe92b88004f40c86d73d8569906f2e9e7ae4c60207ec057a4&X-Amz-SignedHeaders=host" alt="Interpreting Object-level Foundation Models via Visual Precision Search" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34644.png?t=1748853080.0173087" alt="Interpreting Object-level Foundation Models via Visual Precision Search" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2411.16198" title="Interpreting Object-level Foundation Models via Visual Precision Search">
         <strong>🔥 Interpreting Object-level Foundation Models via Visual Precision Search</strong>
@@ -149,7 +149,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33479.png?t=1748410877.7850628" title="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452009020-f235f59f-98d7-4dcf-b211-a4b47c548bf1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083033Z&X-Amz-Expires=300&X-Amz-Signature=846f78532332ccf93f855827707110392c9409971de40804d43cdf875908ff1b&X-Amz-SignedHeaders=host" alt="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33479.png?t=1748410877.7850628" alt="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2412.15322" title="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis">
         <strong>MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis</strong>
@@ -169,7 +169,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32785.png?t=1748780647.7372541" title="SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452245993-4e57fcf0-2833-4fb6-88f4-7ee6aeb94e7d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083352Z&X-Amz-Expires=300&X-Amz-Signature=89d33e634d47f8fb0abbcbb15d7018a5b80c9b8e89fe7643e58f009dbc10819f&X-Amz-SignedHeaders=host" alt="SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32785.png?t=1748780647.7372541" alt="SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2403.09055" title="SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models">
         <strong>SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models</strong>
@@ -190,7 +190,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34813.png?t=1748519375.4086587" title="MINIMA: Modality Invariant Image Matching">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452009030-74fb83da-9361-45da-977f-22c9d4808111.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083125Z&X-Amz-Expires=300&X-Amz-Signature=9cd6fd050e9666c13d0dba4bf132329c751e5844e4feba8f42cf510105acfde3&X-Amz-SignedHeaders=host" alt="MINIMA: Modality Invariant Image Matching" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34813.png?t=1748519375.4086587" alt="MINIMA: Modality Invariant Image Matching" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2412.19412" title="MINIMA: Modality Invariant Image Matching">
         <strong>MINIMA: Modality Invariant Image Matching</strong>
@@ -211,7 +211,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34467.png?t=1748720373.8849306" title="Layered Image Vectorization via Semantic Simplification">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452011709-29830750-91b8-42cb-a7c9-c30f917abba3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083321Z&X-Amz-Expires=300&X-Amz-Signature=39469ec499f6a8720f651e6eadb692e5f0b66a22f44ec4de48fdf4b5580ca919&X-Amz-SignedHeaders=host" alt="Layered Image Vectorization via Semantic Simplification" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34467.png?t=1748720373.8849306" alt="Layered Image Vectorization via Semantic Simplification" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2406.05404" title="Layered Image Vectorization via Semantic Simplification">
         <strong>Layered Image Vectorization via Semantic Simplification</strong>
@@ -249,7 +249,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35010.png?t=1748684123.2752578" title="MITracker: Multi-View Integration for Visual Object Tracking">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452246006-80de6a58-6ffd-477c-b71e-6e36f613c454.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083524Z&X-Amz-Expires=300&X-Amz-Signature=97e45fb05d56439e41e6b77de8f2ff710372326d4b5d206c4a9d4448a2523d0a&X-Amz-SignedHeaders=host" alt="MITracker: Multi-View Integration for Visual Object Tracking" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35010.png?t=1748684123.2752578" alt="MITracker: Multi-View Integration for Visual Object Tracking" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2502.20111" title="MITracker: Multi-View Integration for Visual Object Tracking">
         <strong>🔥 MITracker: Multi-View Integration for Visual Object Tracking</strong>
@@ -269,7 +269,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33882.png?t=1748536728.1331344" title="Multiple Object Tracking as ID Prediction">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452260376-03bbff51-f697-4298-95bb-fe59d9e0394e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083625Z&X-Amz-Expires=300&X-Amz-Signature=b07189c5b9a5c54d166372b57e5ea41575b150e58daf8939313996ea49718408&X-Amz-SignedHeaders=host" alt="Multiple Object Tracking as ID Prediction" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33882.png?t=1748536728.1331344" alt="Multiple Object Tracking as ID Prediction" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2403.16848" title="Multiple Object Tracking as ID Prediction">
         <strong>Multiple Object Tracking as ID Prediction</strong>
@@ -290,7 +290,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35020.png?t=1748563484.5053573" title="Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452246000-40164060-591d-4cc0-a48c-2685beed2396.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083512Z&X-Amz-Expires=300&X-Amz-Signature=d6826c6990237b6bb3c35a09c5eff97308271b8beb519a9d770a0025b354c001&X-Amz-SignedHeaders=host" alt="Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35020.png?t=1748563484.5053573" alt="Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2502.07601" title="Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models">
         <strong>🔥 Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models</strong>
@@ -310,7 +310,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32802.png?t=1748865568.2500262" title="Compositional Caching for Training-free Open-vocabulary Attribute Detection">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452245997-d0696a83-3aa0-417d-92a8-2624ab030e5c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083538Z&X-Amz-Expires=300&X-Amz-Signature=6658e36d077993e746e27a07a5b1ba223c6887d86e878622d0c70d7b5df9ba4d&X-Amz-SignedHeaders=host" alt="Compositional Caching for Training-free Open-vocabulary Attribute Detection" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32802.png?t=1748865568.2500262" alt="Compositional Caching for Training-free Open-vocabulary Attribute Detection" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2503.19145" title="Compositional Caching for Training-free Open-vocabulary Attribute Detection">
         <strong>🔥 Compositional Caching for Training-free Open-vocabulary Attribute Detection</strong>
@@ -331,7 +331,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35057.png?t=1748706748.0220559" title="Reconstructing Humans with a Biomechanically Accurate Skeleton">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452246025-2bd230a4-9ea3-4a78-8daf-b9511c0c0baa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083337Z&X-Amz-Expires=300&X-Amz-Signature=649e6b1cf1d66e759c800845b28c9da946ea34d9c9a51a027adc9fe00ea32beb&X-Amz-SignedHeaders=host" alt="Reconstructing Humans with a Biomechanically Accurate Skeleton" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35057.png?t=1748706748.0220559" alt="Reconstructing Humans with a Biomechanically Accurate Skeleton" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2503.21751" title="Reconstructing Humans with a Biomechanically Accurate Skeleton">
         <strong>🔥 Reconstructing Humans with a Biomechanically Accurate Skeleton</strong>
@@ -369,7 +369,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34330.png?t=1748714664.9139624" title="FoundationStereo: Zero-Shot Stereo Matching">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452246017-7b56609f-74c0-4019-91dd-ed3ea260875f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083613Z&X-Amz-Expires=300&X-Amz-Signature=c6f3d77f1e6be12d6cb41ea383dfb871180a63ec68284499ff9af89ff5005527&X-Amz-SignedHeaders=host" alt="FoundationStereo: Zero-Shot Stereo Matching" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34330.png?t=1748714664.9139624" alt="FoundationStereo: Zero-Shot Stereo Matching" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2501.09898" title="FoundationStereo: Zero-Shot Stereo Matching">
         <strong>🔥 FoundationStereo: Zero-Shot Stereo Matching</strong>
@@ -390,7 +390,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32887.png?t=1747896029.4399107" title="FastVLM: Efficient Vision Encoding for Vision Language Models">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452009017-6915d6e4-7219-4264-ba66-f947c36a1573.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083016Z&X-Amz-Expires=300&X-Amz-Signature=70730501636fbe5d5364593c824b532ed19a88f010631165b41e6eab9011b5aa&X-Amz-SignedHeaders=host" alt="FastVLM: Efficient Vision Encoding for Vision Language Models" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32887.png?t=1747896029.4399107" alt="FastVLM: Efficient Vision Encoding for Vision Language Models" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2412.13303" title="FastVLM: Efficient Vision Encoding for Vision Language Models">
         <strong>FastVLM: Efficient Vision Encoding for Vision Language Models</strong>
@@ -410,7 +410,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33073.png?t=1748883064.876014" title="Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452009024-79e45954-fad5-4d21-a5ab-14a1d5b4b942.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083049Z&X-Amz-Expires=300&X-Amz-Signature=10e6aae1ff1708c38c68f1e66e063a31901ad119671dda6febbea0b8dd8e612f&X-Amz-SignedHeaders=host" alt="Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33073.png?t=1748883064.876014" alt="Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2409.17146" title="Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models">
         <strong>🔥 Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models</strong>
@@ -430,7 +430,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34510.png?t=1748805761.17" title="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452011705-57d90a0c-3ab6-497f-83c0-ed4a46a669ac.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083304Z&X-Amz-Expires=300&X-Amz-Signature=2152e19581b63f9edf3633dfac7ebdb9977c86670ffd518086131f2cf4a4eeca&X-Amz-SignedHeaders=host" alt="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34510.png?t=1748805761.17" alt="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2411.17646" title="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation">
         <strong>🔥 SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation</strong>
@@ -467,7 +467,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33472.png?t=1748798588.1133444" title="ShowUI: One Vision-Language-Action Model for GUI Visual Agent">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/452011691-6dd848ca-51da-479e-9edc-e4f3efc34fc8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250607T083251Z&X-Amz-Expires=300&X-Amz-Signature=3a7977cd45ab8d4f672f47280fcc42721a2e2797674b1a37506685b8aab54585&X-Amz-SignedHeaders=host" alt="ShowUI: One Vision-Language-Action Model for GUI Visual Agent" width="400px" align="left" />
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33472.png?t=1748798588.1133444" alt="ShowUI: One Vision-Language-Action Model for GUI Visual Agent" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2411.17465" title="ShowUI: One Vision-Language-Action Model for GUI Visual Agent">
         <strong>ShowUI: One Vision-Language-Action Model for GUI Visual Agent</strong>
