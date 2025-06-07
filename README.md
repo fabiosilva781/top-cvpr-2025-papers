@@ -26,7 +26,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33969.png?t=1748740040.9726639" title="VGGT: Visual Geometry Grounded Transformer">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33969.png?t=1748740040.9726639" alt="VGGT: Visual Geometry Grounded Transformer" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/33969.png" alt="VGGT: Visual Geometry Grounded Transformer" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2503.11651" title="VGGT: Visual Geometry Grounded Transformer">
         <strong>🔥 VGGT: Visual Geometry Grounded Transformer</strong>
@@ -46,7 +46,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34871.png?t=1748708079.0490072" title="MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34871.png?t=1748708079.0490072" alt="MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/34871.png" alt="MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2412.12392" title="MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors">
         <strong>🔥 MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors</strong>
@@ -128,7 +128,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34644.png?t=1748853080.0173087" title="Interpreting Object-level Foundation Models via Visual Precision Search">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34644.png?t=1748853080.0173087" alt="Interpreting Object-level Foundation Models via Visual Precision Search" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/34644.png" alt="Interpreting Object-level Foundation Models via Visual Precision Search" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2411.16198" title="Interpreting Object-level Foundation Models via Visual Precision Search">
         <strong>🔥 Interpreting Object-level Foundation Models via Visual Precision Search</strong>
@@ -190,7 +190,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34813.png?t=1748519375.4086587" title="MINIMA: Modality Invariant Image Matching">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34813.png?t=1748519375.4086587" alt="MINIMA: Modality Invariant Image Matching" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/34813.png" alt="MINIMA: Modality Invariant Image Matching" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2412.19412" title="MINIMA: Modality Invariant Image Matching">
         <strong>MINIMA: Modality Invariant Image Matching</strong>
@@ -211,7 +211,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34467.png?t=1748720373.8849306" title="Layered Image Vectorization via Semantic Simplification">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34467.png?t=1748720373.8849306" alt="Layered Image Vectorization via Semantic Simplification" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/34467.png" alt="Layered Image Vectorization via Semantic Simplification" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2406.05404" title="Layered Image Vectorization via Semantic Simplification">
         <strong>Layered Image Vectorization via Semantic Simplification</strong>
@@ -249,7 +249,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35010.png?t=1748684123.2752578" title="MITracker: Multi-View Integration for Visual Object Tracking">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35010.png?t=1748684123.2752578" alt="MITracker: Multi-View Integration for Visual Object Tracking" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/35010.png" alt="MITracker: Multi-View Integration for Visual Object Tracking" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2502.20111" title="MITracker: Multi-View Integration for Visual Object Tracking">
         <strong>🔥 MITracker: Multi-View Integration for Visual Object Tracking</strong>
@@ -269,7 +269,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33882.png?t=1748536728.1331344" title="Multiple Object Tracking as ID Prediction">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33882.png?t=1748536728.1331344" alt="Multiple Object Tracking as ID Prediction" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/33882.png" alt="Multiple Object Tracking as ID Prediction" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2403.16848" title="Multiple Object Tracking as ID Prediction">
         <strong>Multiple Object Tracking as ID Prediction</strong>
@@ -290,7 +290,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35020.png?t=1748563484.5053573" title="Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35020.png?t=1748563484.5053573" alt="Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/35020.png" alt="Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2502.07601" title="Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models">
         <strong>🔥 Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models</strong>
@@ -331,7 +331,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35057.png?t=1748706748.0220559" title="Reconstructing Humans with a Biomechanically Accurate Skeleton">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35057.png?t=1748706748.0220559" alt="Reconstructing Humans with a Biomechanically Accurate Skeleton" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/35057.png" alt="Reconstructing Humans with a Biomechanically Accurate Skeleton" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2503.21751" title="Reconstructing Humans with a Biomechanically Accurate Skeleton">
         <strong>🔥 Reconstructing Humans with a Biomechanically Accurate Skeleton</strong>
@@ -369,7 +369,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34330.png?t=1748714664.9139624" title="FoundationStereo: Zero-Shot Stereo Matching">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34330.png?t=1748714664.9139624" alt="FoundationStereo: Zero-Shot Stereo Matching" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/34330.png" alt="FoundationStereo: Zero-Shot Stereo Matching" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2501.09898" title="FoundationStereo: Zero-Shot Stereo Matching">
         <strong>🔥 FoundationStereo: Zero-Shot Stereo Matching</strong>
@@ -430,7 +430,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34510.png?t=1748805761.17" title="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34510.png?t=1748805761.17" alt="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/34510.png" alt="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2411.17646" title="SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation">
         <strong>🔥 SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation</strong>
