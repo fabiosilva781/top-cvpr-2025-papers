@@ -67,7 +67,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32554.png?t=1748195633.2703488" title="UniK3D: Universal Camera Monocular 3D Estimation">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32554.png?t=1748195633.2703488" alt="UniK3D: Universal Camera Monocular 3D Estimation" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/32554.png" alt="UniK3D: Universal Camera Monocular 3D Estimation" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2503.16591" title="UniK3D: Universal Camera Monocular 3D Estimation">
         <strong>UniK3D: Universal Camera Monocular 3D Estimation</strong>
@@ -87,7 +87,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33026.png?t=1749131392.5907311" title="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33026.png?t=1749131392.5907311" alt="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/33026.png" alt="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2409.02095" title="DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos">
         <strong>🔥 DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos</strong>
@@ -107,7 +107,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33862.png?t=1747997885.3577623" title="Video Depth Anything: Consistent Depth Estimation for Super-Long Videos">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33862.png?t=1747997885.3577623" alt="Video Depth Anything: Consistent Depth Estimation for Super-Long Videos" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/33862.png" alt="Video Depth Anything: Consistent Depth Estimation for Super-Long Videos" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2501.12375" title="Video Depth Anything: Consistent Depth Estimation for Super-Long Videos">
         <strong>Video Depth Anything: Consistent Depth Estimation for Super-Long Videos</strong>
@@ -149,7 +149,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33479.png?t=1748410877.7850628" title="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33479.png?t=1748410877.7850628" alt="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/33479.png" alt="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2412.15322" title="MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis">
         <strong>MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis</strong>
@@ -169,7 +169,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32785.png?t=1748780647.7372541" title="SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32785.png?t=1748780647.7372541" alt="SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/32785.png" alt="SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2403.09055" title="SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models">
         <strong>SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models</strong>
@@ -310,7 +310,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32802.png?t=1748865568.2500262" title="Compositional Caching for Training-free Open-vocabulary Attribute Detection">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32802.png?t=1748865568.2500262" alt="Compositional Caching for Training-free Open-vocabulary Attribute Detection" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/32802.png" alt="Compositional Caching for Training-free Open-vocabulary Attribute Detection" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2503.19145" title="Compositional Caching for Training-free Open-vocabulary Attribute Detection">
         <strong>🔥 Compositional Caching for Training-free Open-vocabulary Attribute Detection</strong>
@@ -390,7 +390,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32887.png?t=1747896029.4399107" title="FastVLM: Efficient Vision Encoding for Vision Language Models">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32887.png?t=1747896029.4399107" alt="FastVLM: Efficient Vision Encoding for Vision Language Models" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/32887.png" alt="FastVLM: Efficient Vision Encoding for Vision Language Models" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2412.13303" title="FastVLM: Efficient Vision Encoding for Vision Language Models">
         <strong>FastVLM: Efficient Vision Encoding for Vision Language Models</strong>
@@ -410,7 +410,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33073.png?t=1748883064.876014" title="Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33073.png?t=1748883064.876014" alt="Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/33073.png" alt="Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2409.17146" title="Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models">
         <strong>🔥 Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models</strong>
@@ -467,7 +467,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33472.png?t=1748798588.1133444" title="ShowUI: One Vision-Language-Action Model for GUI Visual Agent">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33472.png?t=1748798588.1133444" alt="ShowUI: One Vision-Language-Action Model for GUI Visual Agent" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/33472.png" alt="ShowUI: One Vision-Language-Action Model for GUI Visual Agent" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2411.17465" title="ShowUI: One Vision-Language-Action Model for GUI Visual Agent">
         <strong>ShowUI: One Vision-Language-Action Model for GUI Visual Agent</strong>
