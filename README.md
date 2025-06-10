@@ -38,7 +38,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> 3D Vision
     <br/>
-    <strong>Session:</strong> Fri 13 Jun 11 p.m. CEST — 1 a.m. CEST Poster Session 2 #86
+    <strong>Session:</strong> Fri 13 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 2 #86
 </p>
 <br/>
 <br/>
@@ -58,7 +58,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> 3D Vision
     <br/>
-    <strong>Session:</strong> Sun 15 Jun midnight CEST — 2 a.m. CEST Poster Session 4 #83
+    <strong>Session:</strong> Sat 14 Jun 3 p.m. PDT — 5 p.m. PDT Poster Session 4 #83
 </p>
 <br/>
 <br/>
@@ -79,7 +79,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Depth Estimation
     <br/>
-    <strong>Session:</strong> Fri 13 Jun 5:30 p.m. CEST — 7:30 p.m. CEST Poster Session 1 #80
+    <strong>Session:</strong> Fri 13 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 1 #80
 </p>
 <br/>
 <br/>
@@ -99,7 +99,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Depth Estimation
     <br/>
-    <strong>Session:</strong> Fri 13 Jun 5:30 p.m. CEST — 7:30 p.m. CEST Poster Session 1 #171
+    <strong>Session:</strong> Fri 13 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 1 #171
 </p>
 <br/>
 <br/>
@@ -119,7 +119,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Depth Estimation
     <br/>
-    <strong>Session:</strong> Sun 15 Jun 5:30 p.m. CEST — 7:30 p.m. CEST Poster Session 5 #169
+    <strong>Session:</strong> Sun 15 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 5 #169
 </p>
 <br/>
 <br/>
@@ -140,7 +140,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Explainability and Interpretability
     <br/>
-    <strong>Session:</strong> Sun 15 Jun 11 p.m. CEST — 1 a.m. CEST Poster Session 6 #372
+    <strong>Session:</strong> Sun 15 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 6 #372
 </p>
 <br/>
 <br/>
@@ -161,7 +161,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Generative Models
     <br/>
-    <strong>Session:</strong> Sun 15 Jun 11 p.m. CEST — 1 a.m. CEST Poster Session 6 #260
+    <strong>Session:</strong> Sun 15 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 6 #260
 </p>
 <br/>
 <br/>
@@ -181,7 +181,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Generative Models
     <br/>
-    <strong>Session:</strong> Sat 14 Jun 5:30 p.m. CEST — 7:30 p.m. CEST Poster Session 3 #226
+    <strong>Session:</strong> Sat 14 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 3 #226
 </p>
 <br/>
 <br/>
@@ -202,7 +202,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Image Matching
     <br/>
-    <strong>Session:</strong> Sun 15 Jun 5:30 p.m. CEST — 7:30 p.m. CEST Poster Session 5 #190
+    <strong>Session:</strong> Sun 15 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 5 #190
 </p>
 <br/>
 <br/>
@@ -223,7 +223,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Image Vectorization
     <br/>
-    <strong>Session:</strong> Fri 13 Jun 11 p.m. CEST — 1 a.m. CEST Poster Session 2 #226
+    <strong>Session:</strong> Fri 13 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 2 #226
 </p>
 <br/>
 <br/>
@@ -241,7 +241,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Object Detection
     <br/>
-    <strong>Session:</strong> Sat 14 Jun 5:30 p.m. CEST — 7:30 p.m. CEST Poster Session 3 #432
+    <strong>Session:</strong> Sat 14 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 3 #432
 </p>
 <br/>
 
@@ -261,7 +261,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Object Tracking
     <br/>
-    <strong>Session:</strong> Sun 15 Jun 11 p.m. CEST — 1 a.m. CEST Poster Session 6 #98
+    <strong>Session:</strong> Sun 15 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 6 #98
 </p>
 <br/>
 <br/>
@@ -281,7 +281,63 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Object Tracking
     <br/>
-    <strong>Session:</strong> Sun 15 Jun 11 p.m. CEST — 1 a.m. CEST Poster Session 6 #163
+    <strong>Session:</strong> Sun 15 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 6 #163
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2501.07256" title="EdgeTAM: On-Device Track Anything Model">
+        <strong>EdgeTAM: On-Device Track Anything Model</strong>
+    </a>
+    <br/>
+    Chong Zhou, Chenchen Zhu, Yunyang Xiong, Saksham Suri, Fanyi Xiao, Lemeng Wu, Raghuraman Krishnamoorthi, Bo Dai, Chen Change Loy, Vikas Chandra, Bilge Soran
+    <br/>
+    [<a href="https://arxiv.org/abs/2501.07256">paper</a>] [<a href="https://github.com/facebookresearch/EdgeTAM">code</a>]  [<a href="https://huggingface.co/spaces/facebook/EdgeTAM">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Object Tracking
+    <br/>
+    <strong>Session:</strong> Sat 14 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 3 #304
+</p>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35133.png?t=1748777099.726237" title="A Distractor-Aware Memory for Visual Object Tracking with SAM2">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/35133.png" alt="A Distractor-Aware Memory for Visual Object Tracking with SAM2" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2411.17576" title="A Distractor-Aware Memory for Visual Object Tracking with SAM2">
+        <strong>A Distractor-Aware Memory for Visual Object Tracking with SAM2</strong>
+    </a>
+    <br/>
+    Jovana Videnovic, Alan Lukezic, Matej Kristan
+    <br/>
+    [<a href="https://arxiv.org/abs/2411.17576">paper</a>] [<a href="https://github.com/jovanavidenovic/DAM4SAM">code</a>]   
+    <br/>
+    <strong>Topic:</strong> Object Tracking
+    <br/>
+    <strong>Session:</strong> Sun 15 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 5 #309
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32888.png?t=1747453263.5318122" title="From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/32888.png" alt="From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2503.00938" title="From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization">
+        <strong>From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization</strong>
+    </a>
+    <br/>
+    Chao Yuan, Guiwei Zhang, Changxiao Ma, Tianyi Zhang, Guanglin Niu
+    <br/>
+    [<a href="https://arxiv.org/abs/2503.00938">paper</a>] [<a href="https://github.com/yuanc3/Pose2ID">code</a>]   
+    <br/>
+    <strong>Topic:</strong> Object Tracking
+    <br/>
+    <strong>Session:</strong> Sun 15 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 5 #190
 </p>
 <br/>
 <br/>
@@ -302,7 +358,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Open-World Detection
     <br/>
-    <strong>Session:</strong> Sun 15 Jun midnight CEST — 2 a.m. CEST Poster Session 4 #435
+    <strong>Session:</strong> Sat 14 Jun 3 p.m. PDT — 5 p.m. PDT Poster Session 4 #435
 </p>
 <br/>
 <br/>
@@ -322,7 +378,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Open-World Detection
     <br/>
-    <strong>Session:</strong> Sat 14 Jun 5:30 p.m. CEST — 7:30 p.m. CEST Poster Session 3 #426
+    <strong>Session:</strong> Sat 14 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 3 #426
 </p>
 <br/>
 <br/>
@@ -343,7 +399,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Pose Estimation
     <br/>
-    <strong>Session:</strong> Fri 13 Jun 11 p.m. CEST — 1 a.m. CEST Poster Session 2 #91
+    <strong>Session:</strong> Fri 13 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 2 #91
 </p>
 <br/>
 <br/>
@@ -361,8 +417,29 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Segmentation
     <br/>
-    <strong>Session:</strong> Fri 13 Jun 11 p.m. CEST — 1 a.m. CEST Poster Session 2 #185
+    <strong>Session:</strong> Fri 13 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 2 #185
 </p>
+<br/>
+
+### sports
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32544.png?t=1748596202.019788" title="Towards Universal Soccer Video Understanding">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/32544.png" alt="Towards Universal Soccer Video Understanding" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2412.01820" title="Towards Universal Soccer Video Understanding">
+        <strong>Towards Universal Soccer Video Understanding</strong>
+    </a>
+    <br/>
+    Jiayuan Rao, Haoning Wu, Hao Jiang, Ya Zhang, Yanfeng Wang, Weidi Xie
+    <br/>
+    [<a href="https://arxiv.org/abs/2412.01820">paper</a>] [<a href="https://github.com/jyrao/UniSoccer">code</a>]   
+    <br/>
+    <strong>Topic:</strong> Sports
+    <br/>
+    <strong>Session:</strong> Fri 13 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 2 #185
+</p>
+<br/>
 <br/>
 
 ### stereo matching
@@ -381,7 +458,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Stereo Matching
     <br/>
-    <strong>Session:</strong> Fri 13 Jun 11 p.m. CEST — 1 a.m. CEST Poster Session 2 #81
+    <strong>Session:</strong> Fri 13 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 2 #81
 </p>
 <br/>
 <br/>
@@ -402,7 +479,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Vision-Language Models
     <br/>
-    <strong>Session:</strong> Sun 15 Jun midnight CEST — 2 a.m. CEST Poster Session 4 #378
+    <strong>Session:</strong> Sat 14 Jun 3 p.m. PDT — 5 p.m. PDT Poster Session 4 #378
 </p>
 <br/>
 <br/>
@@ -422,7 +499,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Vision-Language Models
     <br/>
-    <strong>Session:</strong> Fri 13 Jun 5:30 p.m. CEST — 7:30 p.m. CEST Poster Session 1 #80
+    <strong>Session:</strong> Fri 13 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 1 #80
 </p>
 <br/>
 <br/>
@@ -442,7 +519,27 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Vision-Language Models
     <br/>
-    <strong>Session:</strong> Fri 13 Jun 5:30 p.m. CEST — 7:30 p.m. CEST Poster Session 1 #308
+    <strong>Session:</strong> Fri 13 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 1 #308
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34048.png?t=1748839405.5943303" title="VisionArena: 230K Real World User-VLM Conversations with Preference Labels">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/34048.png" alt="VisionArena: 230K Real World User-VLM Conversations with Preference Labels" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2412.08687" title="VisionArena: 230K Real World User-VLM Conversations with Preference Labels">
+        <strong>VisionArena: 230K Real World User-VLM Conversations with Preference Labels</strong>
+    </a>
+    <br/>
+    Christopher Chou, Lisa Dunlap, Koki Mashita, Krishna Mandal, Trevor Darrell, Ion Stoica, Joseph E. Gonzalez, Wei-Lin Chiang
+    <br/>
+    [<a href="https://arxiv.org/abs/2412.08687">paper</a>]   [<a href="https://huggingface.co/datasets/lmarena-ai/VisionArena-Battle">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Vision-Language Models
+    <br/>
+    <strong>Session:</strong> Fri 13 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 1 #353
 </p>
 <br/>
 <br/>
@@ -460,7 +557,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Visual Agents
     <br/>
-    <strong>Session:</strong> Sat 14 Jun 5:30 p.m. CEST — 7:30 p.m. CEST Poster Session 3 #340
+    <strong>Session:</strong> Sat 14 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 3 #340
 </p>
 <br/>
 
@@ -479,7 +576,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Visual Agents
     <br/>
-    <strong>Session:</strong> Sun 15 Jun midnight CEST — 2 a.m. CEST Poster Session 4 #352
+    <strong>Session:</strong> Sat 14 Jun 3 p.m. PDT — 5 p.m. PDT Poster Session 4 #352
 </p>
 <br/>
 <br/>
