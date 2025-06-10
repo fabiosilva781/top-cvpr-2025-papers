@@ -421,27 +421,6 @@ looking for is not on my short list, take a peek at the full
 </p>
 <br/>
 
-### sports
-
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32544.png?t=1748596202.019788" title="Towards Universal Soccer Video Understanding">
-        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/32544.png" alt="Towards Universal Soccer Video Understanding" width="400px" align="left" />
-    </a>
-    <a href="https://arxiv.org/abs/2412.01820" title="Towards Universal Soccer Video Understanding">
-        <strong>Towards Universal Soccer Video Understanding</strong>
-    </a>
-    <br/>
-    Jiayuan Rao, Haoning Wu, Hao Jiang, Ya Zhang, Yanfeng Wang, Weidi Xie
-    <br/>
-    [<a href="https://arxiv.org/abs/2412.01820">paper</a>] [<a href="https://github.com/jyrao/UniSoccer">code</a>]   
-    <br/>
-    <strong>Topic:</strong> Sports
-    <br/>
-    <strong>Session:</strong> Fri 13 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 2 #185
-</p>
-<br/>
-<br/>
-
 ### stereo matching
 
 <p align="left">
@@ -577,6 +556,47 @@ looking for is not on my short list, take a peek at the full
     <strong>Topic:</strong> Visual Agents
     <br/>
     <strong>Session:</strong> Sat 14 Jun 3 p.m. PDT — 5 p.m. PDT Poster Session 4 #352
+</p>
+<br/>
+<br/>
+
+### todo
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32544.png?t=1748596202.019788" title="Towards Universal Soccer Video Understanding">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/32544.png" alt="Towards Universal Soccer Video Understanding" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2412.01820" title="Towards Universal Soccer Video Understanding">
+        <strong>Towards Universal Soccer Video Understanding</strong>
+    </a>
+    <br/>
+    Jiayuan Rao, Haoning Wu, Hao Jiang, Ya Zhang, Yanfeng Wang, Weidi Xie
+    <br/>
+    [<a href="https://arxiv.org/abs/2412.01820">paper</a>] [<a href="https://github.com/jyrao/UniSoccer">code</a>]   
+    <br/>
+    <strong>Topic:</strong> todo
+    <br/>
+    <strong>Session:</strong> Fri 13 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 2 #185
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34852.png?t=1748847619.7422361" title="Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/34852.png" alt="Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2412.09586" title="Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders">
+        <strong>🔥 Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders</strong>
+    </a>
+    <br/>
+    Fiona Ryan, Ajay Bati, Sangmin Lee, Daniel Bolya, Judy Hoffman, James M. Rehg
+    <br/>
+    [<a href="https://arxiv.org/abs/2412.09586">paper</a>] [<a href="https://github.com/fkryan/gazelle">code</a>]   [<a href="https://colab.research.google.com/drive/1TSoyFvNs1-au9kjOZN_fo5ebdzngSPDq?usp=sharing">colab</a>]
+    <br/>
+    <strong>Topic:</strong> todo
+    <br/>
+    <strong>Session:</strong> Sun 15 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 6 #98
 </p>
 <br/>
 <br/>
