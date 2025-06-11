@@ -157,7 +157,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     Fiona Ryan, Ajay Bati, Sangmin Lee, Daniel Bolya, Judy Hoffman, James M. Rehg
     <br/>
-    [<a href="https://arxiv.org/abs/2412.09586">paper</a>] [<a href="https://github.com/fkryan/gazelle">code</a>]   [<a href="https://colab.research.google.com/drive/1TSoyFvNs1-au9kjOZN_fo5ebdzngSPDq?usp=sharing">colab</a>]
+    [<a href="https://arxiv.org/abs/2412.09586">paper</a>] [<a href="https://github.com/fkryan/gazelle">code</a>]  [<a href="https://huggingface.co/spaces/fffiloni/Gaze-LLE">demo</a>] [<a href="https://colab.research.google.com/drive/1TSoyFvNs1-au9kjOZN_fo5ebdzngSPDq?usp=sharing">colab</a>]
     <br/>
     <strong>Topic:</strong> Gaze-LLE
     <br/>
