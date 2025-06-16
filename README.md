@@ -69,6 +69,26 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/35013.png?t=1748718962.8355792" title="RelationField: Relate Anything in Radiance Fields">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/35013.png" alt="RelationField: Relate Anything in Radiance Fields" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2412.13652" title="RelationField: Relate Anything in Radiance Fields">
+        <strong>RelationField: Relate Anything in Radiance Fields</strong>
+    </a>
+    <br/>
+    Sebastian Koch, Johanna Wald, Mirco Colosi, Narunas Vaskevicius, Pedro Hermosilla, Federico Tombari, Timo Ropinski
+    <br/>
+    [<a href="https://arxiv.org/abs/2412.13652">paper</a>] [<a href="https://github.com/boschresearch/relationfield">code</a>] [<a href="https://youtu.be/8XxWzoWnYT0">video</a>]  
+    <br/>
+    <strong>Topic:</strong> 3D Vision
+    <br/>
+    <strong>Session:</strong> Sun 15 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 5 #190
+</p>
+<br/>
+<br/>
+
 ### depth estimation
 
 <p align="left">
