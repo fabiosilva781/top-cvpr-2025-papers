@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img width="600" src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/IMG_5342.JPG">
+  <img width="600" src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/IMG_5342_.JPG" />
 </div>
 
 ## 👋 hello
