@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img width="600" src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/455605406-89b78d51-8c87-4ed0-b3f8-0b84b36b639c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250616%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250616T154253Z&X-Amz-Expires=300&X-Amz-Signature=d7dab46fc3754e32af9f41567c6d4b473e15da0c8822611fabe4927b5d9fd956&X-Amz-SignedHeaders=host" alt="nashville">
+  <img width="600" src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/IMG_5342.JPG" alt="nashville">
 </div>
 
 ## 👋 hello
@@ -253,23 +253,6 @@ looking for is not on my short list, take a peek at the full
     <strong>Session:</strong> Fri 13 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 2 #226
 </p>
 <br/>
-<br/>
-
-### object detection
-
-<p align="left">
-    <a href="https://arxiv.org/abs/2412.04234" title="DEIM: DETR with Improved Matching for Fast Convergence">
-        <strong>DEIM: DETR with Improved Matching for Fast Convergence</strong>
-    </a>
-    <br/>
-    Shihua Huang, Zhichao Lu, Xiaodong Cun, Yongjun Yu, Xiao Zhou, Xi Shen
-    <br/>
-    [<a href="https://arxiv.org/abs/2412.04234">paper</a>] [<a href="https://github.com/ShihuaHuang95/DEIM">code</a>]   
-    <br/>
-    <strong>Topic:</strong> Object Detection
-    <br/>
-    <strong>Session:</strong> Sat 14 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 3 #432
-</p>
 <br/>
 
 ### object tracking
@@ -574,7 +557,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33482.png?t=1748620034.1782746" title="DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33482.png?t=1748620034.1782746" alt="DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/33482.png" alt="DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2412.16334" title="DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment">
         <strong>DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment</strong>
@@ -594,6 +577,9 @@ looking for is not on my short list, take a peek at the full
 ### visual agents
 
 <p align="left">
+    <a href="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/IMG_4847.JPG" title="Magma: A Foundation Model for Multimodal AI Agents">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/IMG_4847.JPG" alt="Magma: A Foundation Model for Multimodal AI Agents" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2502.13130" title="Magma: A Foundation Model for Multimodal AI Agents">
         <strong>Magma: A Foundation Model for Multimodal AI Agents</strong>
     </a>
@@ -606,6 +592,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Sat 14 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 3 #340
 </p>
+<br/>
 <br/>
 
 
@@ -631,7 +618,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32818.png?t=1748727014.6249733" title="Visual Agentic AI for Spatial Reasoning with a Dynamic API">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32818.png?t=1748727014.6249733" alt="Visual Agentic AI for Spatial Reasoning with a Dynamic API" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/32818.png" alt="Visual Agentic AI for Spatial Reasoning with a Dynamic API" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2502.06787" title="Visual Agentic AI for Spatial Reasoning with a Dynamic API">
         <strong>Visual Agentic AI for Spatial Reasoning with a Dynamic API</strong>
