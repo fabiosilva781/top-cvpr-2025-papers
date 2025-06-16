@@ -5,6 +5,12 @@
   <a href="https://github.com/SkalskiP/top-cvpr-2023-papers">2023</a> | <a href="https://github.com/SkalskiP/top-cvpr-2024-papers">2024</a> | <a href="https://github.com/SkalskiP/top-cvpr-2025-papers">2025</a>
 </div>
 
+<br>
+
+<div align="center">
+  <img width="600" src="https://github-production-user-asset-6210df.s3.amazonaws.com/26109316/455605406-89b78d51-8c87-4ed0-b3f8-0b84b36b639c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250616%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250616T154253Z&X-Amz-Expires=300&X-Amz-Signature=d7dab46fc3754e32af9f41567c6d4b473e15da0c8822611fabe4927b5d9fd956&X-Amz-SignedHeaders=host" alt="nashville">
+</div>
+
 ## 👋 hello
 
 Computer Vision and Pattern Recognition is a massive conference. In **2025** alone,
@@ -145,7 +151,7 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
-### gaze-lle
+### gaze target estimation
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/34852.png?t=1748847619.7422361" title="Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders">
@@ -159,7 +165,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     [<a href="https://arxiv.org/abs/2412.09586">paper</a>] [<a href="https://github.com/fkryan/gazelle">code</a>]  [<a href="https://huggingface.co/spaces/fffiloni/Gaze-LLE">demo</a>] [<a href="https://colab.research.google.com/drive/1TSoyFvNs1-au9kjOZN_fo5ebdzngSPDq?usp=sharing">colab</a>]
     <br/>
-    <strong>Topic:</strong> Gaze-LLE
+    <strong>Topic:</strong> Gaze Target Estimation
     <br/>
     <strong>Session:</strong> Sun 15 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 6 #98
 </p>
@@ -565,6 +571,26 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33482.png?t=1748620034.1782746" title="DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33482.png?t=1748620034.1782746" alt="DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2412.16334" title="DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment">
+        <strong>DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment</strong>
+    </a>
+    <br/>
+    Cijo Jose, Théo Moutakanni, Dahyun Kang, Federico Baldassarre, Timothée Darcet, Hu Xu, Daniel Li, Marc Szafraniec, Michaël Ramamonjisoa, Maxime Oquab, Oriane Siméoni, Huy V. Vo, Patrick Labatut, Piotr Bojanowski
+    <br/>
+    [<a href="https://arxiv.org/abs/2412.16334">paper</a>] [<a href="https://github.com/facebookresearch/dinov2">code</a>] [<a href="https://youtu.be/qNsAgsvhbw4">video</a>]  [<a href="https://colab.research.google.com/github/facebookresearch/dinov2/blob/main/notebooks/dinotxt.ipynb">colab</a>]
+    <br/>
+    <strong>Topic:</strong> Vision-Language Models
+    <br/>
+    <strong>Session:</strong> Sun 15 Jun 8:30 a.m. PDT — 10:30 a.m. PDT Poster Session 5 #169
+</p>
+<br/>
+<br/>
+
 ### visual agents
 
 <p align="left">
@@ -594,6 +620,26 @@ looking for is not on my short list, take a peek at the full
     Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai, Weixian Lei, Lijuan Wang, Mike Zheng Shou
     <br/>
     [<a href="https://arxiv.org/abs/2411.17465">paper</a>] [<a href="https://github.com/showlab/ShowUI">code</a>]  [<a href="https://huggingface.co/spaces/showlab/ShowUI">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Visual Agents
+    <br/>
+    <strong>Session:</strong> Sat 14 Jun 3 p.m. PDT — 5 p.m. PDT Poster Session 4 #352
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32818.png?t=1748727014.6249733" title="Visual Agentic AI for Spatial Reasoning with a Dynamic API">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32818.png?t=1748727014.6249733" alt="Visual Agentic AI for Spatial Reasoning with a Dynamic API" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2502.06787" title="Visual Agentic AI for Spatial Reasoning with a Dynamic API">
+        <strong>Visual Agentic AI for Spatial Reasoning with a Dynamic API</strong>
+    </a>
+    <br/>
+    Damiano Marsili, Rohun Agrawal, Yisong Yue, Georgia Gkioxari
+    <br/>
+    [<a href="https://arxiv.org/abs/2502.06787">paper</a>] [<a href="https://github.com/damianomarsili/VADAR">code</a>] [<a href="https://youtu.be/zYFlDu_zsEs">video</a>]  
     <br/>
     <strong>Topic:</strong> Visual Agents
     <br/>
