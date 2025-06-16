@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img width="600" src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/IMG_5342.JPG" alt="nashville">
+  <img width="600" src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/IMG_5342.JPG">
 </div>
 
 ## 👋 hello
@@ -417,6 +417,9 @@ looking for is not on my short list, take a peek at the full
 ### segmentation
 
 <p align="left">
+    <a href="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/IMG_4803.JPG" title="MatAnyone: Stable Video Matting with Consistent Memory Propagation">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/IMG_4803.JPG" alt="MatAnyone: Stable Video Matting with Consistent Memory Propagation" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2501.14677" title="MatAnyone: Stable Video Matting with Consistent Memory Propagation">
         <strong>MatAnyone: Stable Video Matting with Consistent Memory Propagation</strong>
     </a>
@@ -429,6 +432,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Fri 13 Jun 2 p.m. PDT — 4 p.m. PDT Poster Session 2 #185
 </p>
+<br/>
 <br/>
 
 ### stereo matching
@@ -577,8 +581,8 @@ looking for is not on my short list, take a peek at the full
 ### visual agents
 
 <p align="left">
-    <a href="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/IMG_4847.JPG" title="Magma: A Foundation Model for Multimodal AI Agents">
-        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/IMG_4847.JPG" alt="Magma: A Foundation Model for Multimodal AI Agents" width="400px" align="left" />
+    <a href="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/IMG_4847_.JPG" title="Magma: A Foundation Model for Multimodal AI Agents">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2025-posters/IMG_4847_.JPG" alt="Magma: A Foundation Model for Multimodal AI Agents" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2502.13130" title="Magma: A Foundation Model for Multimodal AI Agents">
         <strong>Magma: A Foundation Model for Multimodal AI Agents</strong>
